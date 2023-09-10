@@ -4,13 +4,13 @@ Our game Echo builds upon the principles of a memory game. 2 players compete aga
 
 Members:
 
-Harikrishnan Chalapathy Anirudh
-Sitoh Chin Weng Bryan
-Mohammed Fauzaan Mahaboob
-Amrita Shah
-Kaveri Priya Putti
-Saakshi Vinod Saraf
-Swastik Majumdar
+Harikrishnan Chalapathy Anirudh, 
+Sitoh Chin Weng Bryan, 
+Mohammed Fauzaan Mahaboob, 
+Amrita Shah, 
+Kaveri Priya Putti, 
+Saakshi Vinod Saraf, 
+Swastik Majumdar, 
 Ang Yu Jie
 
 
